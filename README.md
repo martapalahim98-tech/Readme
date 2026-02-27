@@ -2,6 +2,8 @@
   <img height="0" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<h2 align="center">MARTA PALAHÍ</h2>
+
 ###
 
 <h3 align="left">SOBRE MÍ</h3>
